@@ -20,7 +20,10 @@ struct CrytoCurrencyApp: App {
     
     var body: some Scene {
         WindowGroup {
-            
+            /*
+             Either Section 1 OR Section 2 should open for app launch.
+             */
+          // Section 1.  With Animated text splash screen
             ZStack {
                 NavigationView {
                     HomeView()
@@ -40,7 +43,7 @@ struct CrytoCurrencyApp: App {
             }
 
             
-            // Launch animation with image
+            // Section 2.  Launch animation with image
             /*
              ZStack {
              NavigationView {
