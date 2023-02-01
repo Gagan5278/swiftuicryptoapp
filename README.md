@@ -6,7 +6,7 @@
 #### 1. Animated splash screen
 
 ![animated_splash_screen](https://user-images.githubusercontent.com/2304583/216149514-7dacaecf-88c9-45fa-abb6-aac045031bd4.png)
- ##### There is another animated splash screen. Open CrytoCurrencyApp.swift and uncomment second part for app launch
+ ##### There is another animated splash screen with Image animation. Open CrytoCurrencyApp.swift and uncomment second part for app launch
  ```
               // Launch animation with image
             /*
