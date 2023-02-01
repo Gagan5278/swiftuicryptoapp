@@ -6,3 +6,6 @@
 #### 1. Animated splash screen
 
 ![animated_splash_screen](https://user-images.githubusercontent.com/2304583/216149514-7dacaecf-88c9-45fa-abb6-aac045031bd4.png)
+
+
+#### 2. Main Home screen
